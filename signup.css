@@ -1,0 +1,22 @@
+.footer-signup{
+    width:100%;
+    height:auto;
+    max-height:120px;
+    margin-top:5px;
+    padding:5px 0;
+    position:fixed;
+    bottom:0;
+    background:linear-gradient(to bottom,#f4f4f4, #fff);
+    border-radius:2px solid #ededed;
+    font-size:12px;
+} 
+.footer-signup .footer-links{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-bottom:20px;
+}
+.footer-signup .footer-links a{
+    text-decoration:none;
+    color:#0066c0;
+}
